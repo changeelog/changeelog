@@ -1,5 +1,3 @@
-# 📊 GitHub Stats:
-
 # Tech Stack
 > General
 
