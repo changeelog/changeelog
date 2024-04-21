@@ -89,7 +89,7 @@
         <a href="https://github.com/Lystrillian#stack">
           <img src="https://camo.githubusercontent.com/600a27b2477ea3fc0969d9fd66dcd4fb347be6846ed182d161a73231486926df/68747470733a2f2f706c61797772696768742e6465762f696d672f706c61797772696768742d6c6f676f2e737667" width="36" height="36" alt="playwright" data-canonical-src="https://playwright.dev/img/playwright-logo.svg" style="max-width: 100%;">
         </a>
-        <br>Playwrigth
+        <br>Playwright
       </td>
     </tr>
   </tbody>
