@@ -1,4 +1,4 @@
-![banner](./bannerx2.svg)
+![banner](./banner2x.svg)
 
 _Whirring noises_
 
