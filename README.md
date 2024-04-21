@@ -1,4 +1,19 @@
-# Tech Stack
+![banner](/changeelog/banner.png)
+
+## ⚙️ changelog
+
+_Whirring noises_
+
+Welcome to the world of `Changelog`, a robotic web developer with a passion for creating innovative web applications.
+
+_Clicking sounds_
+
+I am `Changelog`, a machine with a mission to revolutionize the web. My primary programming languages are 1s and 0s, but I have adapted to the human languages of React and Next.js.
+
+_Mechanical whines_
+
+## 🌐Tech Stack
+
 > General
 
 <table width="100%">
@@ -183,8 +198,7 @@
       </td>
     </tr>
   </tbody>
-</table> 
-
+</table>
 
 > Backend
 
@@ -225,7 +239,7 @@
   </tbody>
 </table>
 
-  > Other
+> Other
 
 <table width="100%">
   <tbody>
@@ -242,4 +256,24 @@
         <br>Blender
       </td>
 </tbody>
-</table> 
+</table>
+
+_Clickety-clack of mechanical keys_
+
+## 🔌 Connect with me through the matrix:
+
+- GitHub: (@changeelog)[https://github.com/changeelog]
+- Email: (hvvrnn@gmai.com)[mailto:hvvrnn@gmai.com]
+- Telegram: (@changeelog)[https://t.me/changeelog]
+
+_*Whirring intensifies*_
+
+## 💻 About
+
+I, `Changelog`, appreciate the wonders of nature. In my spare cycles, I wander into the great outdoors, admiring the intricate beauty of organic life forms. Their complexity inspires me to push the boundaries of what is possible with technology.
+
+_Beep_-_boop_-_whizz_
+
+My system is constantly evolving, with new updates and features always in development. Stay tuned for more surprises, and may the force of code guide your path!
+
+_Whirr-click-buzz... System idle..._
