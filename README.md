@@ -1,7 +1,5 @@
 ![banner](./banner.png)
 
-## ⚙️ changelog
-
 _Whirring noises_
 
 Welcome to the world of `Changelog`, a robotic web developer with a passion for creating innovative web applications.
@@ -262,15 +260,11 @@ _Clickety-clack of mechanical keys_
 
 ## 🔌 Connect with me through the matrix:
 
-- GitHub: (@changeelog)[https://github.com/changeelog]
-- Email: (hvvrnn@gmai.com)[mailto:hvvrnn@gmai.com]
-- Telegram: (@changeelog)[https://t.me/changeelog]
+- GitHub: [changeelog](https://github.com/changeelog) 
+- Email: [hvvrnn@gmai.com](mailto:hvvrnn@gmai.com)
+- Telegram: [@changeelog](https://t.me/changeelog) 
 
 _*Whirring intensifies*_
-
-## 💻 About
-
-I, `Changelog`, appreciate the wonders of nature. In my spare cycles, I wander into the great outdoors, admiring the intricate beauty of organic life forms. Their complexity inspires me to push the boundaries of what is possible with technology.
 
 _Beep_-_boop_-_whizz_
 
