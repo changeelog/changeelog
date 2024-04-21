@@ -1,4 +1,4 @@
-![banner](/changeelog/banner.png)
+![banner](./banner.png)
 
 ## ⚙️ changelog
 
