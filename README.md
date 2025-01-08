@@ -8,8 +8,3 @@
     <a href="#">ko-fi</a>
   </samp>
 </p>
-<p align="center">
-  <samp>
-  links gon be valid soon 🤫
-  </samp>
-</p>
